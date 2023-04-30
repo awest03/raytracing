@@ -1,0 +1,12 @@
+[default]
+name=Default
+runtime=podman:b08ca19299bcf8f200ec6f107f736dec5ac7a0cf845e8f362d6a17391e433cba
+toolchain=default
+config-opts=
+run-opts=
+prefix=/var/home/alaisdairwest/.var/app/org.gnome.Builder/cache/gnome-builder/install/raytracing/podman-b08ca19299bcf8f200ec6f107f736dec5ac7a0cf845e8f362d6a17391e433cba
+app-id=
+postbuild=
+prebuild=
+run-command=
+default=true
